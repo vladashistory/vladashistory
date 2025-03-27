@@ -1,3 +1,5 @@
+<h3 align="left">Introduction</h3>
+<p>I am a Senior Full-Stack Developer with a strong passion for AI and DevOps. I firmly believe that creative ideas have the power to change the world. I am committed to putting in my best effort to create amazing solutions.</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
