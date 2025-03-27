@@ -60,16 +60,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="48" height="48" alt="gitlab" />
 </p>
 
-# 📊 GitHub Stats:
-<p  align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverSMILE0825&layout=compact&theme=radical&hide_border=true" alt="Star's Top Languages" width="50%" />
-</p>
-<p  align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NeverSMILE0825&show_icons=true&locale=en" alt="NeverSMILE0825" width="50%"  />
-</p>
-<p  align="center">  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NeverSMILE0825&" alt="NeverSMILE0825" width="50%"  />
-</p>
-
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashraf-kabir&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
