@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Marcus%20Tran&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
-## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&center=false&vCenter=true&repeat=false&width=900&lines=Software+Engineer+%7C+Java+Developer+%7C+CompTIA+Security%2B+Certified+April+2021" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&center=false&vCenter=true&repeat=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer+%7C+CompTIA+Security%2B+Certified+April+2021" alt="Typing SVG" />
 <h3 align="left">Introduction</h3>
 <p>I am a Senior Full-Stack Developer with a strong passion for AI and DevOps. I firmly believe that creative ideas have the power to change the world. I am committed to putting in my best effort to create amazing solutions.</p>
 <h3 align="left">Languages and Tools:</h3>
