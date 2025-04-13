@@ -21,8 +21,8 @@
   
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
   <br>
-  <em>Software Engineer based in Washington, DC</em><br>
-  <em>In my free time, I love coding and exploring the city!</em><br>
+  <em>Full Stack Developer, AI Developer</em><br>
+  <em>In my free time, I love tech posting and imagining.</em><br>
   </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
