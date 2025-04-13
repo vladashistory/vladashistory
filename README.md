@@ -1,11 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Marcus%20Tran&fontSize=50&fontAlignY=45&animation=fadeIn&fontColor=ffffff" width="100%"/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&center=false&vCenter=true&repeat=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=ff751a&center=false&vCenter=true&repeat=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer" alt="Typing SVG" />
 <h3 align="left">Introduction</h3>
 <p>I am a Senior Full-Stack Developer with a strong passion for AI and DevOps. I firmly believe that creative ideas have the power to change the world. I am committed to putting in my best effort to create amazing solutions.</p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&height=80&lines=Java+Development;Spring+Boot+Microservices;AWS+Cloud+Architecture;Kafka+Event+Streaming" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=ff1a8c&center=true&vCenter=true&width=850&height=80&lines=Full+Stack+Development;Spring+Boot+Microservices;AWS+Cloud+Architecture;Kafka+Event+Streaming;AI/ML+Development" alt="Typing SVG" />
 </div>
 <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Enterprise%20Development-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Personality-creative%20,unique-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-9%20Years-purple?style=for-the-badge" />
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&duration=2500&pause=500&color=1aff1a&center=true&vCenter=true&width=700&height=80&lines=Impossible?+Make+It+Possible!" alt="My Faith" />
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+  <br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+  <br>
+  <em>Software Engineer based in Washington, DC</em><br>
+  <em>In my free time, I love coding and exploring the city!</em><br>
+  </div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
