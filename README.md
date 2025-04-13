@@ -2,6 +2,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=1000&color=8A2BE2&center=false&vCenter=true&repeat=false&width=900&lines=Full+Stack+Developer+%7C+AI+Engineer" alt="Typing SVG" />
 <h3 align="left">Introduction</h3>
 <p>I am a Senior Full-Stack Developer with a strong passion for AI and DevOps. I firmly believe that creative ideas have the power to change the world. I am committed to putting in my best effort to create amazing solutions.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&height=80&lines=Java+Development;Spring+Boot+Microservices;AWS+Cloud+Architecture;Kafka+Event+Streaming" alt="Typing SVG" />
+</div>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
